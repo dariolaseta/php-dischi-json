@@ -24,7 +24,7 @@
                         <img :src="disks[index].poster" alt="Album poster">
                     </div>
                     <div class="text">
-                        <h1>title</h1>
+                        <h1>{{disks[index].title}}</h1>
                         <h2>artist</h2>
                         <p>1988</p>
                     </div>
