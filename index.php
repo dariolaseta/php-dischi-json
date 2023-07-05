@@ -25,7 +25,7 @@
                     </div>
                     <div class="text">
                         <h1>{{disks[index].title}}</h1>
-                        <h2>artist</h2>
+                        <p class="author">{{disks[index].author}}</p>
                         <p>1988</p>
                     </div>
                 </div>
