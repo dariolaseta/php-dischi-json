@@ -3,3 +3,15 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header{
+    background-color: #06131f;
+}
+
+main{
+    background-color: #1d2d3c;
+}
+
+div.logo{
+    padding: 2rem 5rem;
+}

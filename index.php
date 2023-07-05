@@ -12,6 +12,10 @@
         <link rel="stylesheet" href="./style/style.css">
     </head>
     <body>
+        <header>
+            <div class="logo"><a href="#">Logo</a></div>
+        </header>
+
         <main>
 
         </main>
