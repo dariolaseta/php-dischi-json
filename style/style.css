@@ -63,5 +63,10 @@ div.text{
 
 p.author{
     font-size: 1rem;
-    padding-bottom: .5rem;
+}
+
+p.year{
+    padding: .5rem 0 2rem;
+    font-size: 1.3rem;
+    font-weight: bold;
 }
