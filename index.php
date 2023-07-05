@@ -13,11 +13,65 @@
     </head>
     <body>
         <header>
-            <div class="logo"><a href="#">Logo</a></div>
+            <div class="logo"><a href="#"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" alt="Spotify Logo"> </a></div>
         </header>
 
         <main>
+            <div class="container">
+                <div class="box">
+                    <div class="img"></div>
+                    <div class="text">
+                        <h1>title</h1>
+                        <h2>artist</h2>
+                        <p>1988</p>
+                    </div>
+                </div>
 
+                <div class="box">
+                    <div class="img"></div>
+                    <div class="text">
+                        <h1>title</h1>
+                        <h2>artist</h2>
+                        <p>1988</p>
+                    </div>
+                </div>
+
+                <div class="box">
+                    <div class="img"></div>
+                    <div class="text">
+                        <h1>title</h1>
+                        <h2>artist</h2>
+                        <p>1988</p>
+                    </div>
+                </div>
+
+                <div class="box">
+                    <div class="img"></div>
+                    <div class="text">
+                        <h1>title</h1>
+                        <h2>artist</h2>
+                        <p>1988</p>
+                    </div>
+                </div>
+
+                <div class="box">
+                    <div class="img"></div>
+                    <div class="text">
+                        <h1>title</h1>
+                        <h2>artist</h2>
+                        <p>1988</p>
+                    </div>
+                </div>
+
+                <div class="box">
+                    <div class="img"></div>
+                    <div class="text">
+                        <h1>title</h1>
+                        <h2>artist</h2>
+                        <p>1988</p>
+                    </div>
+                </div>
+            </div>
         </main>
 
         <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
