@@ -19,53 +19,10 @@
 
         <main>
             <div class="container">
-                <div class="box">
-                    <div class="img"></div>
-                    <div class="text">
-                        <h1>title</h1>
-                        <h2>artist</h2>
-                        <p>1988</p>
+                <div class="box" v-for="(item, index) in disks">
+                    <div class="img">
+                        <img :src="disks[index].poster" alt="Album poster">
                     </div>
-                </div>
-
-                <div class="box">
-                    <div class="img"></div>
-                    <div class="text">
-                        <h1>title</h1>
-                        <h2>artist</h2>
-                        <p>1988</p>
-                    </div>
-                </div>
-
-                <div class="box">
-                    <div class="img"></div>
-                    <div class="text">
-                        <h1>title</h1>
-                        <h2>artist</h2>
-                        <p>1988</p>
-                    </div>
-                </div>
-
-                <div class="box">
-                    <div class="img"></div>
-                    <div class="text">
-                        <h1>title</h1>
-                        <h2>artist</h2>
-                        <p>1988</p>
-                    </div>
-                </div>
-
-                <div class="box">
-                    <div class="img"></div>
-                    <div class="text">
-                        <h1>title</h1>
-                        <h2>artist</h2>
-                        <p>1988</p>
-                    </div>
-                </div>
-
-                <div class="box">
-                    <div class="img"></div>
                     <div class="text">
                         <h1>title</h1>
                         <h2>artist</h2>

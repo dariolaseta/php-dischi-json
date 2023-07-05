@@ -37,14 +37,18 @@ div.box{
     border-radius: .4rem;
     display: flex;
     flex-direction: column;
+    justify-content: center;
 }
 
 div.img{
-    height: 200px;
-    width: 200px;
-    background-color: red;
-    align-self: center;
     margin-top: 1.3rem;
+    display: flex;
+    justify-content: center;
+}
+
+div.img img{
+    width: 80%;
+    align-self: center;
 }
 
 div.text{
